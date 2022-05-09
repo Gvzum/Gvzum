@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dias Gazimov. You can say Divc. 
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 diasgazim@icloud.com
 
