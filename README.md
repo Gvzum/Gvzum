@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dias Gazimov. You can say Divc. 
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Python.
+- 👋 Hi, I’m Dias Gazimov. You can call me Gazim. 
+- 👀 I’m interested in Computer Engineering.
+- 🌱 I’m currently working as Backend Python Developer.
 - 📫 diasgazim@icloud.com
 
 <!---
